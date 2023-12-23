@@ -43,15 +43,13 @@ Navigate through the menu with the arrow keys and select options by pressing Ent
 
 Contributions to Employee Tracker are welcome. Please ensure that your code adheres to the existing style and that all tests pass before submitting a pull request.
 
-## Screenshots
+## Screenshot
 
-Screenshots:
-- ![View All Departments](path/to/departments_screenshot.png)
-- ![Add an Employee](path/to/add_employee_screenshot.png)
+- ![Terminal](./assets/screen.png)
 
 ## Video Demonstration
 
-Link to the video demonstration.
+Link to the [video demonstration](https://drive.google.com/file/d/1cPVCdS97C0DxplcRRZcC764q1qFuL8ZU/view)
 
 ## Questions
 
