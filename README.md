@@ -50,9 +50,10 @@ Contributions to Employee Tracker are welcome. Please ensure that your code adhe
 ## Video Demonstration
 
 Link to the [video demonstration](https://drive.google.com/file/d/1cPVCdS97C0DxplcRRZcC764q1qFuL8ZU/view)
+Link to [Github Repo](git@github.com:alamm01/emptracker.git)
 
 ## Questions
 
 For any questions or concerns regarding the Employee Tracker, please open an issue on GitHub or reach out to the repository owner.
 
-[GitHub Profile](https://github.com/YOUR-USERNAME)
+[GitHub Profile](https://github.com/alamm01)
